@@ -1,0 +1,45 @@
+model_gateway/src/mesh/adapters/tree_sync.rs
+  s_f8d13789e26e1c::t_2c72a0ccf26414 39-41
+  s_f8d13789e26e1c::t_ba7506ec7ac7f7 684-694
+model_gateway/src/mesh/wiring.rs
+  s_f8d13789e26e1c::t_bf561346f7f3af 74-79
+  s_f8d13789e26e1c::t_c5d1c2a6d3b32e 201-211,219-222,227-234
+  s_f8d13789e26e1c::t_499ffc0c623371 528-535,538-547,551-565,567-569,571-572,576-588,592-606,610-614
+  s_f8d13789e26e1c::t_f68cea8e683792 281,290,295
+  s_f8d13789e26e1c::t_1912e18ad0b614 15
+  s_f8d13789e26e1c::t_d5ff77bd3cfca1 35-38
+  s_f8d13789e26e1c::t_4219a62fcb71d8 454-527
+  s_f8d13789e26e1c::t_d5f72eebebb508 536-537,548-550,566,570,573-575,589-591,607-609
+  s_f8d13789e26e1c::t_07a65d106ac70b 287-289,291-294,296-298
+  s_f8d13789e26e1c::t_2c72a0ccf26414 10,12-14,17-34,39-44,53,58-59,65-70,84-85,89-109,111-123,126-135,147-200,212-218,223-226,235-274,279,282-283,300-302,305-311,318-324,362-433,446-452
+model_gateway/src/policies/registry.rs
+  s_f8d13789e26e1c::t_1fb91c5819e5ca 202-205,226-228
+  s_f8d13789e26e1c::t_5521f708fcea3e 60-61
+  s_f8d13789e26e1c::t_cf8c3cc490f635 370-371
+  s_f8d13789e26e1c::t_2c72a0ccf26414 22,58-59,62-63,103,200-201,206-219,221-225,229-235,366-369
+  s_f8d13789e26e1c::t_c75101b2503cf0 220,236-237
+model_gateway/src/server.rs
+  s_f8d13789e26e1c::t_2c72a0ccf26414 1092-1093
+model_gateway/src/policies/cache_aware.rs
+  s_f8d13789e26e1c::t_2c72a0ccf26414 66,124,126,133,243,261-268,275-279,286-289,294,297-300,1105,1110-1124,1206-1214
+  s_f8d13789e26e1c::t_6cef6ef2898fec 125,127-132
+  s_f8d13789e26e1c::t_e359eaa1068fb0 269-274,280-285,290-293,295-296
+  s_f8d13789e26e1c::t_bc98e121c7ce7b 247
+  s_f8d13789e26e1c::t_26262290669bcd 248-253
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "dfa35aa734a1ab6c2008675982ff1c8f577bb4c1",
+  "prompts": {},
+  "sessions": {
+    "s_f8d13789e26e1c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0b62433-cfa2-4ff0-924c-608dae4d6668",
+        "model": "arn:aws:bedrock:us-west-2:466494951737:application-inference-profile/rf6www9ej5dq"
+      },
+      "human_author": "purp1e-ace <45795655+purp1e-ace@users.noreply.github.com>"
+    }
+  }
+}
