@@ -1,0 +1,32 @@
+model_gateway/src/policies/registry.rs
+  s_f8d13789e26e1c::t_84ab5014f7c412 344
+  s_f8d13789e26e1c::t_de557c6e61b1e5 333-343,345-370
+model_gateway/src/policies/cache_aware.rs
+  s_f8d13789e26e1c::t_0d9baa86a133a6 1161-1163
+  s_f8d13789e26e1c::t_c07c82c4599e21 327-330
+  s_f8d13789e26e1c::t_58b3efd2718813 269-314
+model_gateway/src/mesh/adapters/tree_sync.rs
+  s_f8d13789e26e1c::t_45435208c6dc33 117-123
+model_gateway/src/mesh/wiring.rs
+  s_f8d13789e26e1c::t_1683ca28170edb 200-204,207-221,224-225
+  s_f8d13789e26e1c::t_0b394a8178c87b 246-258,266-277,281-290
+  s_f8d13789e26e1c::t_c7f594be0fd6c6 624-647,649-650,652,654-708,710-711,713,715-718
+  s_f8d13789e26e1c::t_0dbb311d1629c2 648,651,653,709,712,714
+  s_f8d13789e26e1c::t_e22742f3c9d0ed 382
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "a8ca572e43422cba0aaa08fce405a8d650d3966d",
+  "prompts": {},
+  "sessions": {
+    "s_f8d13789e26e1c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0b62433-cfa2-4ff0-924c-608dae4d6668",
+        "model": "arn:aws:bedrock:us-west-2:466494951737:application-inference-profile/rf6www9ej5dq"
+      },
+      "human_author": "purp1e-ace <45795655+purp1e-ace@users.noreply.github.com>"
+    }
+  }
+}
